@@ -1,2 +1,2 @@
-# express-ts
-express + typesrcript + typeorm
+# express-ts (yarn)
+express + typesrcript + typeorm 
